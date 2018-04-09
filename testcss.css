@@ -19,8 +19,7 @@ text-align: center;
 
 
 .main {
-  box-sizing: border-box;
-  background: url("/Users/jameshannan/Documents/Html Project/IMG_2086.jpg") no-repeat top center;
+  background: url("IMG_2086.jpg");
   background-size: cover;
   width: 100%;
   height: 100%;
